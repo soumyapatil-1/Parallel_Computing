@@ -2,8 +2,8 @@
 
 **Course Title:** Parallel and Grid Computing (PGC)  
 **Experiment Title:** Performance Analysis of Matrix Multiplication using Sequential, OpenMP, MPI, and CUDA Paradigms  
-**Author / Repository Owner:** `chhavi-2006`  
-**Repository:** [https://github.com/chhavi-2006/PGC_lab](https://github.com/chhavi-2006/PGC_lab)  
+**Author / Repository Owner:** `soumyapatil-1`  
+**Repository:** [https://github.com/soumyapatil-1/PGC_lab](https://github.com/chhavi-2006/PGC_lab)  
 **Date:** September 2026  
 
 ---

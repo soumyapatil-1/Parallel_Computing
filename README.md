@@ -232,25 +232,3 @@ Parallel_Computing/
     ├── matrix_mpi.c
     └── matrix_cuda.cu
 
-Laboratory experiment conducted as part of the Parallel and Grid Computing course.
-
-
-### Now, what you actually need to do in GitHub
-
-Since you already created your **`Parallel_Computing`** repository:
-
-1. Open your repository.
-2. Click **`README.md`**.
-3. Click the **pencil/edit icon**.
-4. Select the existing README text.
-5. Delete it.
-6. Copy the README above.
-7. Paste it there.
-8. Scroll down.
-9. Click **Commit changes**.
-
-**Don't upload `README.md` from your friend's folder.** Use the README that GitHub already created in **your** repository and replace its contents with the version above.
-
-Also, the image names in the README must match the actual files you upload into your `images` folder; otherwise GitHub will show broken images. The original README uses those image paths explicitly. :contentReference[oaicite:2]{index=2}
-
-If you want, **send me a screenshot of your empty `Parallel_Computing` repository now**, and I'll tell you exactly **which button to click first**.
